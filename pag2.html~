@@ -1,0 +1,17 @@
+<html>
+<head><title>Schede grafiche</title></title></head>
+<body bgcolor="Gray">
+<h1 style="text-align:center"><font color="Black">Grafica per videogiocatori</font></h1>
+<p><div align="center"><font color="black" ><font size="4"><b>Videogiochi</b></font></font></p>
+<p><font color="black" >Le schede video per i giocatori di video giochi sono molte, ed e' molto difficile scegliere perche' o si pensa al prezzo 
+o alle prestazioni. Ovviamente la cosa migliore a cui pensare e' la prestazione della scheda e non al prezzo.</p>
+ <div align="center"><img src="Titan.png" width="400" height="287" alt="">
+<p><font color="black" ><font size="4"><b>Nvidia GeForce GTX TITAN Z </b></font></font></p>
+<p><font color="black">La scheda video nell'immagine sopra e' una scheda video di prestazioni molto elevate, infatti molti giocatori 
+la preferiscono perche' ha una fluidita' video stupenda.<br>GeForce GTX TITAN Z e' davvero fenomenale: 
+Si tratta della scheda grafica piu' veloce del pianeta, realizzata specificamente per gestire anche le macchine per il gaming piu' estreme.
+ Dotata di ben 5760 core e 12 GB di memoria, questa scheda a doppia GPU offre la potenza necessaria a gestire persino i piu' folli 
+ display multi-monitor e gli iper-PC a 4K.</p>
+
+
+</html>
